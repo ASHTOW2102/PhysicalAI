@@ -1,15 +1,3 @@
----
-title: Robot Easy
-emoji: 🤖
-colorFrom: indigo
-colorTo: yellow
-sdk: static
-app_file: index.html
-pinned: false
-license: mit
-short_description: Design your first robot without robotics expertise
----
-
 # Robot Easy — Physical AI for Software Developers
 
 Robot Easy is a browser-based tool that helps people from software and IT backgrounds understand how software connects to physical robots. Users can describe a robot task, generate a hardware and software blueprint, and test an articulated robot arm in an interactive 3D workcell.
